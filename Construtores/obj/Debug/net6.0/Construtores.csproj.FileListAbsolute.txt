@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\bin\Debug\net6.0\Construtores.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\bin\Debug\net6.0\Construtores.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\bin\Debug\net6.0\Construtores.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\bin\Debug\net6.0\Construtores.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\bin\Debug\net6.0\ref\Construtores.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\bin\Debug\net6.0\Construtores.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\ref\Construtores.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Construtores\obj\Debug\net6.0\Construtores.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\bin\Debug\net6.0\ref\TrabalhandoComArquivos.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\bin\Debug\net6.0\TrabalhandoComArquivos.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\ref\TrabalhandoComArquivos.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComArquivos\obj\Debug\net6.0\TrabalhandoComArquivos.genruntimeconfig.cache

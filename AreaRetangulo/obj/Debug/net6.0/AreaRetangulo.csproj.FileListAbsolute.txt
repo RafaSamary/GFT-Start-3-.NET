@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.exe
+C:\workspace\BootCampGFT\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.deps.json
+C:\workspace\BootCampGFT\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.runtimeconfig.json
+C:\workspace\BootCampGFT\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.dll
+C:\workspace\BootCampGFT\AreaRetangulo\bin\Debug\net6.0\ref\AreaRetangulo.dll
+C:\workspace\BootCampGFT\AreaRetangulo\bin\Debug\net6.0\AreaRetangulo.pdb
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.AssemblyInfo.cs
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.dll
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\ref\AreaRetangulo.dll
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.pdb
+C:\workspace\BootCampGFT\AreaRetangulo\obj\Debug\net6.0\AreaRetangulo.genruntimeconfig.cache
