@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\bin\Debug\net6.0\AppCadastro.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\bin\Debug\net6.0\AppCadastro.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\bin\Debug\net6.0\AppCadastro.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\bin\Debug\net6.0\AppCadastro.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\bin\Debug\net6.0\ref\AppCadastro.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\bin\Debug\net6.0\AppCadastro.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\ref\AppCadastro.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CRUD\obj\Debug\net6.0\AppCadastro.genruntimeconfig.cache
