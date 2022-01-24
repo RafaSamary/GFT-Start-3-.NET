@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\bin\Debug\net6.0\Exceções.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\bin\Debug\net6.0\Exceções.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\bin\Debug\net6.0\Exceções.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\bin\Debug\net6.0\Exceções.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\bin\Debug\net6.0\ref\Exceções.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\bin\Debug\net6.0\Exceções.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\ref\Exceções.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Exceções\obj\Debug\net6.0\Exceções.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\bin\Debug\net6.0\ref\ProjetoJogoRPG.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\bin\Debug\net6.0\ProjetoJogoRPG.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ref\ProjetoJogoRPG.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoJogoRPG\obj\Debug\net6.0\ProjetoJogoRPG.genruntimeconfig.cache
