@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\bin\Debug\net6.0\CsvStream.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\bin\Debug\net6.0\CsvStream.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\bin\Debug\net6.0\CsvStream.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\bin\Debug\net6.0\CsvStream.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\bin\Debug\net6.0\ref\CsvStream.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\bin\Debug\net6.0\CsvStream.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\ref\CsvStream.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\CsvStream\obj\Debug\net6.0\CsvStream.genruntimeconfig.cache

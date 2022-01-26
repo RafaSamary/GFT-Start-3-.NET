@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\bin\Debug\net6.0\TrabalhandoComStreams.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\bin\Debug\net6.0\TrabalhandoComStreams.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\bin\Debug\net6.0\TrabalhandoComStreams.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\bin\Debug\net6.0\TrabalhandoComStreams.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\bin\Debug\net6.0\ref\TrabalhandoComStreams.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\bin\Debug\net6.0\TrabalhandoComStreams.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\ref\TrabalhandoComStreams.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\TrabalhandoComStreams\obj\Debug\net6.0\TrabalhandoComStreams.genruntimeconfig.cache

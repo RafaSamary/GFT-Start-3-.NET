@@ -1,0 +1,17 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\bin\Debug\net6.0\ref\ProjetoCsvHelper.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\bin\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\bin\Debug\net6.0\CsvHelper.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.csproj.CopyComplete
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ref\ProjetoCsvHelper.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\ProjetoCsvHelper\obj\Debug\net6.0\ProjetoCsvHelper.genruntimeconfig.cache

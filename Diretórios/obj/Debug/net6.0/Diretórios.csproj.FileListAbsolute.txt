@@ -1,0 +1,15 @@
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\bin\Debug\net6.0\Diretórios.exe
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\bin\Debug\net6.0\Diretórios.deps.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\bin\Debug\net6.0\Diretórios.runtimeconfig.json
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\bin\Debug\net6.0\Diretórios.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\bin\Debug\net6.0\ref\Diretórios.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\bin\Debug\net6.0\Diretórios.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.csproj.AssemblyReference.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.AssemblyInfoInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.AssemblyInfo.cs
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.csproj.CoreCompileInputs.cache
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\ref\Diretórios.dll
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.pdb
+C:\workspace\BootCampGFT\GFT-Start-3-.NET\Diretórios\obj\Debug\net6.0\Diretórios.genruntimeconfig.cache
