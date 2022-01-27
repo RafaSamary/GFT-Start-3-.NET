@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CursoAPI.NETCORE</name>
+    </assembly>
+    <members>
+        <member name="M:CursoAPI.NETCORE.Models.Usuarios.UsuarioController.Logar(CursoAPI.NETCORE.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Este Serviço permite autenticar um usuário cadastrado e ativo
+            </summary>
+            <param name="loginViewModelInput"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -5,9 +5,10 @@ namespace CursoMVC.Models
     public class Context : DbContext
     {
         public DbSet<Categoria> Categorias { get; set; }
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuider)
+        public DbSet<Produto> Produtos { get; set; }
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuider.UseSqlServer(@"Server=(localdb)\mssqllocaldb;Database=CursoMVC;Integrated Security=True");
+            optionsBuilder.UseSqlServer(connectionString:@"Server=(localdb)\mssqllocaldb;Database=CursoMVC;Integrated Security=True");
         }
     }
 }
